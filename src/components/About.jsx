@@ -22,7 +22,7 @@ export default function About() {
                     <div className="about p-7 sm:p-10">
                         <h1 className='text-4xl sm:text-5xl font-bold capitalize text-slate-950'>Hey <span className='text-blue-600' >There !</span></h1>
                         <p className='mt-5 mb-2 text-md font-semibold text-slate-500'>
-                            Hello, I'm <span className='text-slate-700'>Shubham Jaiswar</span>, a dedicated second-year student pursuing <span className='text-slate-700'>Computer Engineering</span> at D.J. Sanghvi College of Engineering, Mumbai. I am passionate about leveraging technology to create innovative solutions and enhance user experiences. My primary areas of focus include <span className='text-slate-700'>MERN (MongoDB, Express.js, React.js, Node.js) stack development and competitive programming.</span>
+                            Hello, I'm <span className='text-slate-700'>Shubham Jaiswar</span>, a dedicated final-year student pursuing <span className='text-slate-700'>Computer Engineering</span> at D.J. Sanghvi College of Engineering, Mumbai. I am passionate about leveraging technology to create innovative solutions and enhance user experiences. My primary areas of focus include <span className='text-slate-700'>MERN (MongoDB, Express.js, React.js, Node.js) stack development and competitive programming.</span>
                         </p>
 
                         <h1 className='mt-5 mb-2 text-md font-bold text-slate-900'>Connect With Me.</h1>
